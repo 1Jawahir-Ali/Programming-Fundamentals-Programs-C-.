@@ -99,7 +99,7 @@ int main(){
 
 	
 	
-//	                                             -------------------Program of  Access Control System---------------
+//	                    -------------------Program of  Access Control System---------------
 	
 	
 /*	string username,password;
