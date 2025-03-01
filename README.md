@@ -1,2 +1,2 @@
-<h2>Author:Jawahir Ali</h2><br>
+<h3>Author:Jawahir Ali</h3><br>
 This is first repository, lab programs  of Programming Fundamentals of first semester batch(2024-2028). Using C++ language.
