@@ -1,7 +1,7 @@
-<h3>Jawahir Ali</h3><br>
-________________________________________________
--📌 <h4></h4>C++ Language</h4>
-________________________________________________
+<h3>Jawahir Ali</h3><br>  ______________________________________
+   -📌 <h4>C++ Language</h4>  ______________________________________
+<br>
+-> <h2>About Repository</h2>
 <br>
 -> This is my first repository, basic programs of C++ of 1st semester.
 <br>
@@ -14,7 +14,7 @@ ________________________________________________
 
 - 🌱 I’m studying in the University of Azad Jammu and Kashmir, Muzaffarabad.
 <br>
-- 👯 I’m looking to collaborate on project of C++.
+- 👯 I’m looking to collaborate fot the project of C++.
 <br>
 
 - 💬 You can ask me about this repository.
